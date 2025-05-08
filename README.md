@@ -41,7 +41,7 @@ Check out the configuration reference at https://huggingface.co/docs/hub/spaces-
 
 ## 🚀 Live Demo
 
-👉 Try it here: [StyleSavvy on Hugging Face](https://huggingface.co/spaces/Munazz/StyleSavvy)
+👉 Try it here: [StyleSavvy on Hugging Face](https://huggingface.co/spaces/ssirajudeen/StyleSavy)
 
 ---
 
