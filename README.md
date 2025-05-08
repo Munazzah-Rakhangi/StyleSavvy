@@ -122,7 +122,3 @@ Then open the local Gradio link in your browser.
 Feel free to open issues or pull requests!
 
 ---
-
-## 📄 License
-
-MIT License
